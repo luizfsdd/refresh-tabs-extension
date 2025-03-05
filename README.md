@@ -14,6 +14,14 @@ Se você deseja usar ou modificar este código, entre em contato para obter a de
 - **Fácil de usar**: A extensão foi projetada para ser simples e prática, sem configurações complicadas. ✅
 - **Performance otimizada**: Não há consumo excessivo de recursos, garantindo uma experiência suave no navegador. 🚀
 
+- Veja abaixo como a **Tab Refresher** funciona:
+
+  ![image](https://github.com/user-attachments/assets/a7a07495-1657-4077-84b6-584f9fbf556f)
+
+  ![image](https://github.com/user-attachments/assets/86f65726-a75c-4a34-a801-10b15afd8906)
+
+
+
 ## Requisitos 🖥️
 
 - **Google Chrome** (ou qualquer navegador baseado em Chromium). 🌐
