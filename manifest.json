@@ -19,12 +19,12 @@
   },
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "icon.png"
+    "default_icon": "att.png"
   },
   "copyright": "Copyright 2025 Luiz Dias. Todos os direitos reservados.",
   "icons": {
-    "16": "icon.png",
-    "48": "icon.png",
-    "128": "icon.png"
+    "16": "att.png",
+    "48": "att.png",
+    "128": "att.png"
   }
 }

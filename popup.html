@@ -5,20 +5,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Extensão</title>
-  </head>
-  <body>
-    <!-- Resto do código HTML... -->
-  </body>
-</html>
-
-
-
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,12 +12,31 @@
     <link rel="stylesheet" href="popup.css">
 </head>
 <body>
-    <h3>Tab Manager</h3>
-    <label>Tempo (segundos):</label>
+    <h3> <img src="att.png"> TAB MANAGER</h3>
+    <hr>
+    <br>
+    <label>Tempo de atualização (segundos):</label>
+    <br><br>
     <input type="number" id="interval" min="2" value="6">
     <br>
+    <br>
+    <label>Tempo antes da troca (segundos):</label>
+    <br><br>
+    <input type="number" id="switchDelay" min="0.5" step="0.5" value="3.5">
+    <br><br>
+    <label>Atualizar abas?</label>
+    <br>
+    <br>
+    <label class="switch">
+      <input type="checkbox" id="toggleSwitch" checked>
+      <span class="slider"></span>
+    </label>
+    <br><br>
+    <hr>
     <button id="toggle" class="button">Ativar</button>
+    <br>
     <p id="status">Desativado</p>
+
     <script src="popup.js"></script>
 </body>
 </html>
