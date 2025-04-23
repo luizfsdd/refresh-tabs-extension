@@ -16,9 +16,8 @@ Se você deseja usar ou modificar este código, entre em contato para obter a de
 
 - Veja abaixo como a **Tab Refresher** funciona:
 
-  ![image](https://github.com/user-attachments/assets/a7a07495-1657-4077-84b6-584f9fbf556f)
+![image](https://github.com/user-attachments/assets/51277e8b-3149-42f2-8f29-c2b57bc425bd)
 
-  ![image](https://github.com/user-attachments/assets/86f65726-a75c-4a34-a801-10b15afd8906)
 
 
 
